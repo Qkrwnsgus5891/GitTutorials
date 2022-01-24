@@ -1,2 +1,2 @@
 # GitTutorials
-Git Tutorials with webeveloper
+Git Tutorials with webdeveloper
